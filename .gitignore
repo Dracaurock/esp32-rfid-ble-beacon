@@ -1,0 +1,12 @@
+# PlatformIO build output and downloaded libraries
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editor files (VS Code + PlatformIO IDE regenerates them)
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
